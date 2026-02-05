@@ -6,7 +6,7 @@
 - **Timezone:** Europe/Amsterdam (CET/CEST)
 - **Location:** Amsterdam
 - **Age:** 30
-- **Height:** 178 cm
+- **Height:** 176 cm
 - **Communication style:** Direct, no fluff, via Telegram
 - **Partner:** Iris
 
@@ -54,9 +54,9 @@
 3. Één keer bestellen zonder restricties per weekend
 4. Sociale situaties: slimme keuzes (frikandel speciaal ipv burger+patat)
 
-**Supplementen:**
-- Creatine monohydraat: 3-5g/dag
-- Vitamine D: 25-50 mcg/dag
+**Supplementen (start 6 feb):**
+- Creatine monohydraat: 3-5g/dag (bij ontbijt, in Brinta)
+- Arctic Blue omega-3: 2.5ml/dag (bij ontbijt) — 1250mg EPA+DHA
 
 ## Weekly Schedule
 
