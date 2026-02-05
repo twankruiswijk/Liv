@@ -1,0 +1,13 @@
+# Backup files
+*.bak
+*.backup
+
+# Secrets (if any)
+secrets/
+*.secret
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
