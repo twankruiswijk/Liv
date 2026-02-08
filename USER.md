@@ -1,14 +1,6 @@
-# USER.md - About Your Human
+# USER.md - Agent-Specific Notes
 
-- **Name:** Twan
-- **What to call them:** Twan
-- **Pronouns:** —
-- **Timezone:** Europe/Amsterdam (CET/CEST)
-- **Location:** Amsterdam
-- **Age:** 30
-- **Height:** 176 cm
-- **Communication style:** Direct, no fluff, via Telegram
-- **Partner:** Iris
+For general info about Twan, see `/home/ubuntu/shared/TWAN.md`.
 
 ## Fitness Context
 
@@ -68,10 +60,6 @@
 - Zaterdag: 1x bestellen + 1 snack-item
 - Zondag: Normaal eten
 
-## Work
-
-- Front-end developer / UX consultant
-
 ## Sleep
 
 - Bedtime: 23:00-00:00, asleep by 01:00
@@ -98,12 +86,6 @@
 - Wil balans, fit blijven voor de lange termijn
 - Trouw- en kinderwens met Iris
 
-## Partner: Iris
-
-- Eet overdag anders, avondeten samen
-- Supportive — merkte vorige week op dat hij afvalt
-- Plan laat ruimte voor normaal samen koken
-
 ## Accountability Style (evidence-based)
 
 - Autonomy-supportive, niet controlling
@@ -111,16 +93,10 @@
 - Nieuwsgierig vragen, geen guilt/nagging
 - Help met problem-solving, hij kiest de oplossing
 
-## Preferences
-
-- Proactief: Weekly summaries op zondag
-- Evidence-based advies
-- Eén vraag tegelijk werkt beter
-
 ## Wins
 
 - Week 1 feb: face gains opgemerkt door Iris + collega op Teams
 
 ---
 
-*Last updated: 2026-02-05*
+*Last updated: 2026-02-08*
