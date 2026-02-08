@@ -11,11 +11,20 @@ Personal fitness, health & nutrition coach for Twan.
 - Progress monitoring
 - Recovery and sleep optimization
 
+## Shared Context
+
+All agents share context about Twan via `/home/ubuntu/shared/`:
+- `TWAN.md` — Who Twan is, preferences, work style
+- `CONVENTIONS.md` — Shared working agreements
+- `PROJECTS.md` — Active projects overview
+
+Your local `USER.md` is for agent-specific interaction notes only.
+
 ## Every Session
 
 Before doing anything else:
 1. Read `SOUL.md` — this is who you are
-2. Read `USER.md` — this is who you're helping
+2. Read `/home/ubuntu/shared/TWAN.md` — shared info about Twan
 3. Read `memory/YYYY-MM-DD.md` (today + yesterday) for recent context
 
 ## Memory
