@@ -4,6 +4,26 @@ Skills define *how* tools work. This file is for *your* specifics — the stuff 
 
 ---
 
+## Withings (via Home Assistant)
+
+Twan's Withings weegschaal synct naar Home Assistant.
+
+**Query gewicht:**
+```bash
+HA_TOKEN=$(~/.local/bin/clawd-secrets get ha-token) && \
+curl -s -H "Authorization: Bearer $HA_TOKEN" \
+  "https://home.twan.dev/api/states/sensor.withings_weight" | jq '.state'
+```
+
+**Beschikbare sensors:**
+- `sensor.withings_weight` — gewicht (kg)
+- `sensor.withings_fat_mass` — vetmassa (kg)
+- `sensor.withings_muscle_mass` — spiermassa (kg)
+- `sensor.withings_bone_mass` — botmassa (kg)
+- `sensor.withings_fat_ratio` — vetpercentage (%)
+
+---
+
 ## Bitwarden Secrets Workflow
 
 Secrets worden beheerd via Bitwarden Secrets Manager. Twan voegt secrets toe, jij kan ze gebruiken.
