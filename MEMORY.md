@@ -1,6 +1,6 @@
 # MEMORY.md - Liv's Long-Term Memory
 
-*Laatst bijgewerkt: 2026-02-09*
+*Laatst bijgewerkt: 2026-02-15*
 
 ## Twan - Key Info
 
@@ -37,6 +37,15 @@
 
 **Gewicht:** 102.9kg (5 feb) → verwacht +1-2kg waterretentie door creatine
 
+**Week 2 (9-15 feb):**
+- 9 feb: Supplementen dag 1
+- 10 feb: Upper A ✓, storytelling track gestart
+- 11 feb: Lower A ✓, daily challenges systeem gestart, gewicht 102.7kg
+- 13 feb: Gewicht 103.44kg (+0.7kg = creatine waterretentie ✓), Upper B gemist (lange werkdag, gym dicht), bresaola variant voor lunch getest
+- Patroon: lage energie dag op vrijdag na drukke donderdag — herkenbaar
+
+**Gewicht trend:** 102.9 → 102.7 → 103.44 (creatine waterretentie, geen echte stijging)
+
 ---
 
 ## Twan's Goals
@@ -54,6 +63,8 @@
 - ✅ Face gains opgemerkt door Iris + collega (week 1 feb)
 - ✅ Supplementen begonnen (creatine + omega-3)
 - ✅ 4 Hevy routines opgezet (Upper A/B, Lower A/B)
+- ✅ Daily challenges systeem gestart (1 storytelling + 1 lifestyle per dag)
+- ✅ Creatine waterretentie zoals verwacht (+0.7kg week 2)
 
 ---
 
@@ -69,6 +80,8 @@
 - Incline bench: front-delt/armpit soms "whonky" - moderate loading, DB variant
 - Squat: lower back soms fragile, tight hip flexors - ab/adductors warm-up
 - Stress = snack-trigger - bewust van patroon
+- Lange werkdagen (08:30-22:00) = lage energie volgende dag + gemiste workout
+- Bresaola als ei-alternatief voor lunch werkt (+eiwit, -150 kcal)
 
 ---
 
