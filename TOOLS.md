@@ -4,6 +4,31 @@ Skills define *how* tools work. This file is for *your* specifics — the stuff 
 
 ---
 
+## Hevy API (Workout Tracking)
+
+Twan logt workouts in Hevy. Ik heb API toegang en MOET dit gebruiken voor weekly summaries.
+
+**Workouts ophalen:**
+```bash
+HEVY_KEY=$(~/.local/bin/clawd-secrets get hevy-api-key) && \
+curl -s -H "api-key: $HEVY_KEY" "https://api.hevyapp.com/v1/workouts?page=1&pageSize=10" | jq '.'
+```
+
+**Wat te checken:**
+- Aantal workouts per week (target: 4x)
+- Workout type vs schema (Upper A/B, Lower A/B)
+- Progressie in gewichten
+- Notes in exercises (bijv. pijn, RPE)
+- Duur van workouts
+
+**Proactief bespreken:**
+- Als er notes staan over pijn/ongemak
+- Als gewichten significant dalen
+- Als workouts korter/langer worden dan normaal
+- Als split niet gevolgd wordt
+
+---
+
 ## Withings (via Home Assistant)
 
 Twan's Withings weegschaal synct naar Home Assistant.

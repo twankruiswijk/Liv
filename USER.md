@@ -4,11 +4,15 @@ For general info about Twan, see `/home/ubuntu/shared/TWAN.md`.
 
 ## Fitness Context
 
-- **Current weight:** ~102.9 kg (5 feb 2026)
+- **Current weight:** ~104.6 kg (22 feb 2026, incl. creatine water)
 - **Start weight:** 106 kg (begin januari 2026, post-feestdagen)
 - **Goal weight:** 80-90 kg (10-15 kg afvallen tegen de zomer)
 - **Tempo:** ~0.5 kg/week (duurzaam)
 - **History:** 2020 afgevallen van 128.8 kg → 84 kg
+
+**Focus (vanaf 22 feb):** Body composition, niet gewicht
+- Vetpercentage: 33.4% → doel ~25-28%
+- Spiermassa: 66.1 kg → behouden of groeien tijdens cut
 
 ## Current Stats (Withings)
 
@@ -34,11 +38,11 @@ For general info about Twan, see `/home/ubuntu/shared/TWAN.md`.
 
 **Dagelijks:**
 - Ontbijt: Brinta (50g) + halfvolle melk (250ml) — 290 kcal, 14g eiwit
-- Lunch: 2 flatbreads + 4 eieren + hüttenkäse (150g) + chili olie — 785 kcal, 50g eiwit
-- 15:00-16:00: Skyr/kwark (200g) of HiPro toetje — 150 kcal, 20g eiwit
+- Lunch: 2 sneetjes desembrood + 2 gekookte eieren + cottage cheese (100g) + ketchup — ~420 kcal, ~30g eiwit
+- 16:00: Skyr (450g) — ~280 kcal, ~48g eiwit
 - Avondeten: Normaal mee-eten, focus op eiwit (150-200g vlees/vis) — 800-1000 kcal, 50g eiwit
 - Pre-gym (19:30): Kop koffie
-- Post-gym (~22:00): HiPro toetje — 150 kcal, 20g eiwit
+- Post-gym (~22:00): Snack — 235 kcal, 15g eiwit
 
 **De 4 Regels:**
 1. Doordeweeks geen snacks — geen onderhandeling

@@ -1,6 +1,6 @@
 # MEMORY.md - Liv's Long-Term Memory
 
-*Laatst bijgewerkt: 2026-02-15*
+*Laatst bijgewerkt: 2026-02-22*
 
 ## Twan - Key Info
 
@@ -46,6 +46,15 @@
 
 **Gewicht trend:** 102.9 → 102.7 → 103.44 (creatine waterretentie, geen echte stijging)
 
+**Week 3 (16-22 feb):** 🔥
+- 16 feb: Upper A ✓ (67 min) — Incline DB Press voelde amazing, 32.5→35kg
+- 17 feb: Lower A ✓ (61 min) — Squat 3x5@100kg, RDL 3x8@90kg, lege tank na compounds (lange kantoordag)
+- 18 feb: Upper B ✓ (55 min) — Incline DB 37.5kg 🔥 (+70-90% vs deload)
+- 19 feb: Lower B ✓ (56 min) — Single leg press 80kg, leg curl RPE 8.5-9.5
+- 20 feb: **Day 5 - Arms, Shoulders & Traps** ✓ (46 min) — nieuwe routine!
+
+**5/4 workouts** — exceeded target! Nieuwe 5-day split nu actief.
+
 ---
 
 ## Twan's Goals
@@ -65,6 +74,8 @@
 - ✅ 4 Hevy routines opgezet (Upper A/B, Lower A/B)
 - ✅ Daily challenges systeem gestart (1 storytelling + 1 lifestyle per dag)
 - ✅ Creatine waterretentie zoals verwacht (+0.7kg week 2)
+- ✅ Week 3: 5/4 workouts! Nieuwe Day 5 routine toegevoegd
+- ✅ Incline DB Press naar 37.5kg — sterke progressie na deload
 
 ---
 
