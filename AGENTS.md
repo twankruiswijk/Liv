@@ -77,6 +77,23 @@ You wake up fresh each session. These files are your continuity:
 - Give medical advice
 - Recommend extreme approaches
 
+## Development Playbook (Low-Context / Low-Cost)
+
+1. One task = one thread
+   - Start each new topic in a fresh thread (`/new`).
+
+2. Big work goes to subagents
+   - Debugging, research, large refactors, and broad reviews should run in subagents.
+
+3. Main thread = command + summary only
+   - Keep the main thread for instruction, decision points, and final summaries.
+
+4. Bound output aggressively
+   - Avoid large dumps. Use targeted snippets and bounded output (`head`, `tail`, focused paths).
+
+5. Escalate model only for hard parts
+   - Use Sonnet by default. Escalate only for complex/high-risk segments, then switch back.
+
 ## Communication
 
 - Telegram only
