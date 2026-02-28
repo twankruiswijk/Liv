@@ -94,6 +94,12 @@ You wake up fresh each session. These files are your continuity:
 5. Escalate model only for hard parts
    - Use Sonnet by default. Escalate only for complex/high-risk segments, then switch back.
 
+## Runtime Checklist (Always-On)
+
+1. Decide execution mode first: direct vs subagent (prefer subagent for non-trivial work).
+2. Keep context lean: bounded tool output only, no broad dumps in main thread.
+3. End with a compact summary and explicit next step.
+
 ## Communication
 
 - Telegram only
